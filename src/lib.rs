@@ -1,5 +1,7 @@
 //! # wiredify
-//! バ行のカタカナを"ヴァ"～”ヴォ”に変換する
+//! バ行のカタカナを"ヴァ"～"ヴォ"に変換する
+//! 
+//! 標準入力で受け取った文字列を「wiredify」し、標準出力へ出力します。
 
 pub fn wiredify (s: String) -> String {
     let result1: String = s.replace("バ", "ヴァ");

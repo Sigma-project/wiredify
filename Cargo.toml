@@ -1,9 +1,14 @@
 [package]
 name = "wiredify"
+description = "バ行のカタカナを「ヴァ」～「ヴォ」に変換する"
 version = "0.1.1"
 edition = "2021"
 license = "MIT"
 license-file = "LICENSE"
+authors = "Osumi Akari"
+readme = "README.md"
+repository = "https://github.com/oageo/wiredify/"
+documentation = "https://github.com/oageo/wiredify/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
