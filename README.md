@@ -1,4 +1,9 @@
 # wiredify
+![Crates.io Version](https://img.shields.io/crates/v/wiredify)
+![Crates.io Total Downloads](https://img.shields.io/crates/d/wiredify)
+![GitHub License](https://img.shields.io/github/license/oageo/wiredify)
+![GitHub Repo stars](https://img.shields.io/github/stars/oageo/wiredify)
+
 バ行のカタカナを"ヴァ"～"ヴォ"に変換する
 
 Inspired by [eniehack/wiredify](https://github.com/eniehack/wiredify)（dewiredify）
