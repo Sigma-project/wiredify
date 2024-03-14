@@ -1,3 +1,6 @@
+//! # wiredify
+//! バ行のカタカナを"ヴァ"～”ヴォ”に変換する
+
 pub fn wiredify (s: String) -> String {
     let result1: String = s.replace("バ", "ヴァ");
     let result2: String = result1.replace("ビ", "ヴィ");
