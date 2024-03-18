@@ -12,3 +12,6 @@ Inspired by [eniehack/wiredify](https://github.com/eniehack/wiredify)（dewiredi
 | 入力 | 出力 |
 | ------ | ------ |
 | バイオリンをバッハからいただいたのでビオラとオーボエと一緒に、ベートーヴェンの曲をボートの上で演奏しました。 | ヴァイオリンをヴァッハからいただいたのでヴィオラとオーヴォエと一緒に、ヴェートーヴェンの曲をヴォートの上で演奏しました。 |
+
+## オンラインで試す
+See: [wiredift online](https://github.com/oageo/wiredifyonline)（実装中）
