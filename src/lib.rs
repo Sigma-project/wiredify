@@ -11,3 +11,14 @@ pub fn wiredify (s: String) -> String {
     let result: String = result4.replace("ボ", "ヴォ");
     return result;
 }
+
+/// `dewiredify`も実装しようとしています。
+
+pub fn dewiredify (s: String) -> String {
+    let result1: String = s.replace("ヴ", "ブ");
+    let result2: String = result1.replace("ヴァ", "バ");
+    let result3: String = result2.replace("ヴィ", "ビ");
+    let result4: String = result3.replace("ヴェ", "ベ");
+    let result: String = result4.replace("ヴォ", "ボ");
+    return result;
+}
